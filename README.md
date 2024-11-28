@@ -12,7 +12,5 @@ Vital Metrics: Elevated resting blood pressure and fasting blood sugar levels st
 🎯 Why it Matters:
 Visualizing health data in this way empowers both individuals and healthcare providers to focus on critical age groups and key risk factors. It's a step forward in using data-driven insights for better healthcare outcomes.
 
-💡 How do you see data visualization playing a role in improving public health awareness? Share your thoughts in the comments!
 
-#DataVisualization #Tableau #HealthcareAnalytics #HeartHealth #DataDrivenDecisions #DashboardDesign
 
